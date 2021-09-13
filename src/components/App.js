@@ -1,3 +1,4 @@
+import '../sass/main.scss';
 import React from 'react';
 
 import CV from './CV';

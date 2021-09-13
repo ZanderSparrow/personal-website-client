@@ -1,0 +1,17 @@
+// Universal selector to reset all browsers
+* { 
+  margin: 0px;
+  padding:  0;
+  box-sizing: inherit;
+}
+
+/* If the default is used - 16px - then this will be 10px */
+html {
+  // defines what one rem is
+  font-size: 62.5%;
+}
+
+// Include border in box size
+body {
+  box-sizing:  border-box;
+}
