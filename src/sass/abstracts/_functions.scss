@@ -1,0 +1,3 @@
+@function get-grid-width($columns, $span, $gutter) {
+  @return calc((((100% - (#{$columns} - 1) * #{$gutter}) / #{$columns}) * #{$span}) + (#{$gutter} * (#{$span} - 1)));
+}
