@@ -4,7 +4,7 @@ import Project from './Project';
 
 const ProjectList = () => {
   return (
-    <div>
+    <div className="portfolio" id="portfolio">
       <h2>Projects</h2>
     </div>
   );

@@ -18,7 +18,7 @@ const Nav = () => {
         <ul className="navigation__list">
           <li className="navigation__item"><a href="#" class="navigation__link">About Sparrow</a></li>
           <li className="navigation__item"><a href="#" class="navigation__link">Resume</a></li>
-          <li className="navigation__item"><a href="#" class="navigation__link">Project</a></li>
+          <li className="navigation__item"><a href="#portfolio" class="navigation__link">Project</a></li>
           <li className="navigation__item"><a href="#" class="navigation__link">Blog</a></li>
           <li className="navigation__item"><a href="#" class="navigation__link">Social Media</a></li>
         </ul>
